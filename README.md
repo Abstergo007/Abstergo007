@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Abstergo007.Abstergo007)
 
-I am a computer science undergrad. I love programming, writing, speaking and lots of machine learning.
+I"m a computer science undergrad. I love programming, writing, speaking and lots of machine learning.
 
 Rumor has it !! I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
