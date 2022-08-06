@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Ankur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
-<a href="https://www.hackerrank.com/ankmuz007"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<!-- <a href="https://www.hackerrank.com/ankmuz007"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <a href="https://www.kaggle.com/a66ankurkumar/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 <a href="https://leetcode.com/Abstergo007/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 <a href="https://www.linkedin.com/in/ankur-kumar-292904204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://github.com/Abstergo007/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<!--<a href=""><img src=""/>
+<a href=""><img src=""/>
 <a href=""><img src=""/>-->
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-kumar-292904204/)
+[![Kaggle Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.kaggle.com/a66ankurkumar/)
+[![Leetcode Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://leetcode.com/Abstergo007/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.hackerrank.com/ankmuz007)
+[![Github Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://github.com/Abstergo007/)
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Abstergo007.Abstergo007)
