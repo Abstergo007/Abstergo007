@@ -52,7 +52,7 @@ Rumor has it !! I enjoy using my obsessive attention to detail, my unequivocal l
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: ankmuz007@gmail.com;
   
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]([https://www.overleaf.com/read/cdxpdnkjdtrp](https://drive.google.com/file/d/1IqZS4Jc80HkVAf1KTpklasSdyWCsmclq/view?usp=sharing));
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume(https://drive.google.com/file/d/1IqZS4Jc80HkVAf1KTpklasSdyWCsmclq/view?usp=sharing);
 
 </br>
 
