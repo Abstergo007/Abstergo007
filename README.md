@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.hackerrank.com/ankmuz007"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <a href="https://www.kaggle.com/a66ankurkumar/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 <a href="https://leetcode.com/Abstergo007/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-<a href="https://www.linkedin.com/in/ankur-kumar-292904204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ankurdas007/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://github.com/Abstergo007/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <a href=""><img src=""/>
 <a href=""><img src=""/>-->
